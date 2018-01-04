@@ -31,7 +31,8 @@
             "give me some information",
             "give me some space information",
             "tell me something",
-            "give me something"
+            "give me something",
+            "another space fact please"
           ],
           "slots": []
         }
